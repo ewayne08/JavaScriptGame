@@ -1,5 +1,5 @@
 # JavaScriptGame
-WELCOME TO THE SNAKE GAME. I am sure lots of you have seen the snake game around. This application was made of pure HTML, CSS, JavaScript, and uses a Python a port/server
+WELCOME TO THE SNAKE GAME. I am sure lots of you have seen the snake game around. This application was made of pure HTML, CSS, JavaScript, and uses a Python port/server
 
 HOW TO PLAY: Once the game is loaded use the arrow keys to move the snake. Eat as much food as you can without "dying"
 
